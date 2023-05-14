@@ -1,2 +1,2 @@
 # Rainbow-Poem
-A poem about rainbows
+A poem about rainbows in the key of c major
