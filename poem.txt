@@ -2,6 +2,7 @@ Red
 Purple
 Green
 Yellow
+Indigo
 Blue
 Magenta
 
